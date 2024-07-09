@@ -1,0 +1,16 @@
+.About-Page {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    font-family: 'Lexend Zetta', sans-serif;;
+}
+
+.about-image {
+    margin: 5px;
+    border-radius: 20px;
+    background-color: black;
+}
+
+.About-Sessions {
+    padding: 50px;
+    text-align: center;
+}

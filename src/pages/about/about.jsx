@@ -11,7 +11,6 @@ const About = () => {
     return (
         <div className="About-Page">
         <HelmetProvider>
-                
             <Helmet>
                     <meta charSet="utf-8" />
                     <title>{meta.title}| About Us</title>
@@ -77,7 +76,6 @@ const About = () => {
                         </Col>
                     </Row>
                 </div>
-                
             </HelmetProvider>
         </div>
     )

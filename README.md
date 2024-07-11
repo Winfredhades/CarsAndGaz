@@ -1,3 +1,8 @@
+# After cloned the files Chek=ck dependencies
+
+This project requires many dependencies before `npm start` you should type `npm install` for install all dependencies.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

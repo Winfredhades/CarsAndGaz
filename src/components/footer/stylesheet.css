@@ -1,0 +1,11 @@
+.footer {
+    background-color: var(--primary-color); /* Dark gray background */
+    color: var(--text-color); /* White text */
+    font-family: 'Lexend Zetta', sans-serif;;
+    padding: 10px 0; /* Padding for the footer */
+    width: 100%; /* Full width */
+    bottom: 0; /* Align to bottom */
+    text-align: center; /* Center the text */
+    justify-content: center;
+    align-items: center;
+}

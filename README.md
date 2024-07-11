@@ -74,3 +74,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # CarsAndGaz
+## Things to do
+    1. add a footer
+    2. hamburger menu needs to be fixed
+    3. responsiveness looks fine maybe we need some adjustments
+    4. add some content to main page its lack of content
+    5. in the contact page placeholders needs to be white(in dark mode)
+    6. in the contact page doesnt have proper dark mode
+    7. in the contact page send looks like just a text we need to add buttons
